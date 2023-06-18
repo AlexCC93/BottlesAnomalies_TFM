@@ -2,4 +2,7 @@ models/pytorchModels/
 GAN_approach/ForBottlesTrainings/
 AnoGAN_DS2/ForBottlesTrainings/
 AnoGAN_DS2/partialTestsWgangTraining/
+AnoGAN_DS2/ForBottlesValidation/
+AnoGAN_DS2/partialTestsEncoderTraining/
+GAN_approach/numbersTrainingsRelated/
 models
